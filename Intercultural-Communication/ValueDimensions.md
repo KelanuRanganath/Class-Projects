@@ -60,8 +60,7 @@ Long Term Orientation
 
 Hofstede's long-term orientation assesses to what degree a culture resists change [19]. This definition is very similar to uncertainty avoidance. However, there is still an average deviation of about 58 percent in the percent differences between the UA and LTO dimensions -using data scraped from Hofstede's website-, so our low UA doesn't necessarily imply a low LTO. The standard deviation and the graph tell different stories, one suggests that our data is very spread out, the other suggests that there's a much higher density at deviations below 10%. I'm more inclined to trust the standard deviation measurement and conclude that while there are similarities between the two scores in many instances, we can't make any assumptions about the LTO based on the UA.
 
-ValueDimensionScreenshot-1.png
-
+![Value Dimensions](https://cdn.inst-fs-iad-prod.inscloudgate.net/bd2657db-f48f-43a9-a8be-180d17e00df3/ValueDimensionScreenshot-1.png)
  
 
 Instead, we can look at the Inupiat Ilitqusiat, a set of tenets important to the Inupiat culture, which reinforces the importance of core principles and values like humor, hard work, and responsibility to the tribe. Inupiat Ilitqusiat, was codified by the Northwest Alaska Native Association and exists to improve the quality of life of its community [15, 17]. These values provide valuable insight in finding both the long term orientation and indulgence of the Inupiats.
